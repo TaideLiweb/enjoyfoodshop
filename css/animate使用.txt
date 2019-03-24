@@ -1,0 +1,17 @@
+<link href="css/animate.css" rel="stylesheet" type="text/css">
+
+
+
+
+當我們加入 CSS 類別時，
+「animated」代表的是動畫，
+「infinite」代表了無限循環，
+而「bounce」則代表了「彈跳」— 如果你想要不一樣的動畫類型，
+只要將第三個類別「bounce」改為其它的類別就可以了，animate.css 所提供的內建類別包含了 75 種，
+數量相當多，若你想知道完整的列表可以連至 animate.css 的專案庫參考，
+我們在這裡也提供一個快速預覽的動畫圖給大家做快速對照：
+
+
+
+
+http://blog.infographics.tw/2016/11/animate-css/

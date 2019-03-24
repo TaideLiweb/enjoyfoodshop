@@ -1,0 +1,15 @@
+    
+¦A<head></head>
+
+<script>
+     new WOW().init();
+    </script>
+
+
+½d¨Ò:
+<p class="wow bounce">
+
+
+
+ºô§}:
+https://dotblogs.com.tw/wellwind/2016/12/05/front-end-wow-js
